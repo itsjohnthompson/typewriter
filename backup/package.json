@@ -4,7 +4,7 @@
   "description": "Backs up Typewriter input",
   "main": "backup.js",
   "dependencies": {
-    "mongodb": "^1.4.29"
+    "mongodb": "^2.2.19"
   },
   "devDependencies": {},
   "scripts": {
